@@ -45,7 +45,7 @@ The web interface reads these values to update the game controls. The Angle inpu
 
 ## Moodboard
 
-![Penalty Mind Games visual inspiration](moodboard.png)
+![Penalty Mind Games visual inspiration](images/moodboard.png)
 
 Our visual inspiration combines arcade gaming, football video games, stadiums and Cristiano Ronaldo penalty moments. These references influenced the game's two-player controls and football atmosphere.
 
